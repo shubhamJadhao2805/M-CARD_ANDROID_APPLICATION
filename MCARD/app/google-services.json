@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645176361756",
+    "firebase_url": "https://m-card-2ac54.firebaseio.com",
+    "project_id": "m-card-2ac54",
+    "storage_bucket": "m-card-2ac54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645176361756:android:df0595723d507bdbf0f0d9",
+        "android_client_info": {
+          "package_name": "com.example.m_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645176361756-nqdulnco421reh8cqr832fq25o2s5efv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv580KHzU8h_qT-UiOP6W8OGbVotxE3TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645176361756-nqdulnco421reh8cqr832fq25o2s5efv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
